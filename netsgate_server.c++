@@ -1,6 +1,6 @@
 // Netsgate server
 // Copyright © 2014 Dawid Wiktor
-// W razie spotkania mam nadzieję, że coś postawisz i wypijemy razem :-)
+// W razie spotkania mam nadzieję, że coś postawisz i że wypijemy razem :-)
 int main() {
 	cout<<"Podaj port: ";
 	cin>>port;
