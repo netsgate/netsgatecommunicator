@@ -1,6 +1,11 @@
 netsgatecommunicator
+Dawid Wiktor, 2014
 ====================
 
 Netsgate Communicator
-You can use gcc to compile all two files: netsgate_server.c++, netsgate_client.c++.
-Możesz użyć kompilatora gcc by skompilować pliki: netsgate_server.c++, netsgate_client.c++.
+
+ENG
+You need to compile files: netsgate_client.c++ and netsgate_server.c++ after first using. You can use GCC to compile this files.
+
+PL
+Przed pierwszym użyciem powinieneś skompilować pliki: netsgate_client.c++ i netsgate_server.c++. Możesz użyć kompilatorów takich jak np. GCC.
